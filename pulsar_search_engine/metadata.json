@@ -1,0 +1,10 @@
+{
+  "name": "Pulsar",
+  "description": "Pulsar: A web application for voice-activated Google search. Search by typing or with your voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": "",
+  "googleClientId": "YOUR GOOGLE CLIENT ID KEY",
+  "apiKey": "YOUR API KEY"
+}
